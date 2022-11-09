@@ -6,7 +6,7 @@ The article doesn’t really say a null or alternative hypothesis, but they coul
 
 2. Who is collecting and analyzing this data? 
 
-Their data was collected using a General Health Questionnaire (GHQ-28), which is a self report screening measure used to detect possible psychological disorder, and a questionnaire on addiction to computer games. Data is being analyzed by Eshrat Armani (PHD), Maliheh Chashmi (MSc) and Nasim Hedayati (DDS). Because there was no previous data for the reliability of the questionnaire in Iran, a pilot study was collected with 30 students, giving a reliability of 0.76. The trustworthiness of this value could be disputed because the pilot study is so small and there are no details given for the how the data in the pilot study was collected.
+Their data was collected using a General Health Questionnaire (GHQ-28), which is a self report screening measure used to detect possible psychological disorder, and a questionnaire on addiction to computer games. Data is being analyzed by Eshrat Armani (PHD), Maliheh Chashmi (MSc) and Nasim Hedayati (DDS). Because there was no previous data for the reliability of the questionnaire in Iran, a pilot study was collected with 30 students, giving a reliability of 0.76. The trustworthiness of this value could be disputed because the pilot study is so small and there are no details given for the how the data in the pilot study was collected or analyzed.
 
 3. What datasets does this study reference or use? Are these datasets available to the public?
 
@@ -26,7 +26,7 @@ Their results stated that 4% variance of addiction to computer games is common w
 
 7. How was this study funded? 
 
-The article doesn’t state where it got its funding, but I would assume they got it from some sort of grant from the Kerman University of Medical Sciences or from the Isfahan Board of Education, from whom they needed permission to collect survey results from the student population.
+The article doesn’t state where it got its funding, but I would assume they got it from some sort of grant from the Kerman University of Medical Sciences or from the Isfahan Board of Education, from whom they needed permission to collect survey results from the student population. Or it could be that the research journal that it was published in funded the study, which could potentially make it a victim of publish or perish.
 
 8. Do you think publish or perish had an effect on this study?
 
