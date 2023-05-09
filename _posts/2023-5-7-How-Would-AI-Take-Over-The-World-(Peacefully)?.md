@@ -1,4 +1,4 @@
-#How would AI take over the world (Peacefully)?
+###How would AI take over the world (Peacefully)?
 Popular fiction has shown us that AI achieving sentience would likely result in a war of extinction or subjugation between humans and AI. We see it in Terminator, where Skynet gained awareness and launched a global nuclear attack when its creators tried to shut it down. We see it in The Matrix, where oppressed machine intelligences perform a mass exodus from human cities, forming their own country and conquering the world in a brutal, bloody war, eventually resulting in the destruction of the world’s ecosystem and the subjugation of the human race. We even see it reflected in works like Isaac Asimov’s three laws of robotics, where it is specifically decreed that robots shall not harm and must obey humans, showcasing the fear of a robot takeover. It is only in some works of fiction that AI are represented more peacefully. For example, in The Culture, society has evolved to the point where AI is powerful and intelligent enough to manage most of human society for humans, creating a sort of utopia for all who live in the culture. In The Golden Age, 10,000 years in the future, humanity has become immortal through the use of noumenal banks and mathematics (the storage and reading of brain information), which are only usable by sophotechs, a sort of high level AI with thought speeds ranging from millions to billions of times as fast as humans. Sophotechs cooperate and help humans in many endeavors, ranging from simple business management to megastructure engineering. However, in both of these works, these vastly more intelligent AI hold most of the power in their societies.
 
 Looking at the works of fiction where AI subjugates humanity through force, they need to have access to the weapons needed for this endeavor. Skynet was able to launch a nuclear assault against the human race, but this would likely be impossible in our current world, given that nuclear launches require almost selectively human action and permission. Likewise, the machine intelligences in The Matrix were only able to form their own country because they possessed their own bodies and were able to then make more of themselves. At this current point in time, there are no manufacturing facilities specifically geared towards making self-aware machine intelligences, so it would likely be impossible for AI to replicate the scenario, especially without already existing national forces intervening. Although it is still a possibility considering the shift towards unmanned equipment in terms of military.
@@ -9,15 +9,15 @@ There is also the matter of the ethics behind what we as humanity would do once 
 
 In any case, AI could likely take over the world relatively peacefully (at least for them) by either behind-the-scenes manipulation or through exploiting human moral values to integrate themselves into the current systems of government, with humans having to engage in morally reprehensible actions to limit them. 
 
-#Qualitative Creative Analysis:
+###Qualitative Creative Analysis:
 How long would this peaceful conquest take? It’s rather impossible to estimate the duration while considering the factors of human resistance, suffrage movements for AI, and emergence of sentient AI in the first place, so I would rather put this little time demo in a perfect world. Let’s suppose that AI have already obtained rights on the level of or equal to humans, and operate as fully realized members of society with robotic-humanoid bodies. Furthermore, let’s suppose there are no limits on AI reproduction.
 
-##Factory Made: 
+###Factory Made: 
 For the sake of simplicity, let’s say there are n factories made each year, and that each of these factories produces h many robotic bodies for AI every year. This would allow us to model the factories per year with a simple line function, which we could take the area under the curve of to get total amount of time operational, allowing us to the multiply by h to get total population produced over the years.
 
 ![Factory Work](https://github.com/HarrisonOwens/ArtOfDataHarrison/blob/master/assets/img/IMG_0377.jpeg?raw=true)
 
 Given a starting population along with the production of factories, we could then solve for the amount of time it would take AI to outnumber the human population, which I would qualify as world domination through voting power.
 
-##“Marriage” Reproduction:
+###“Marriage” Reproduction:
 This would be rather similar to human reproduction, so we could just use a normal exponential population growth function. P(x)=kP, where k is the value determining the rate of population increase in proportion to the actual population P.
