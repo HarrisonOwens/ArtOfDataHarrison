@@ -15,7 +15,7 @@ How long would this peaceful conquest take? It’s rather impossible to estimate
 # Factory Made: 
 For the sake of simplicity, let’s say there are n factories made each year, and that each of these factories produces h many robotic bodies for AI every year. This would allow us to model the factories per year with a simple line function, which we could take the area under the curve of to get total amount of time operational, allowing us to the multiply by h to get total population produced over the years.
 
-![Factory Work](https://github.com/HarrisonOwens/ArtOfDataHarrison/blob/master/assets/img/IMG_0377.jpeg?raw=true)
+![Factory Work](https://github.com/HarrisonOwens/ArtOfDataHarrison/blob/master/assets/img/IMG_0378.jpeg?raw=true)
 
 Given a starting population along with the production of factories, we could then solve for the amount of time it would take AI to outnumber the human population, which I would qualify as world domination through voting power.
 
